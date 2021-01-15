@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(128, 108, 93);
+ text-align: justify;
+ width: 60%;
+ margin: auto;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    border: 2px solid rgba(0, 0, 0, 0.534);
+}
+h2 {
+    font-size: medium
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid rgba(0, 0, 0, 0.534);
+}
+
+
