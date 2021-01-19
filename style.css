@@ -1,17 +1,72 @@
 body {
-    background-color: rgb(128, 108, 93);
+    background-color: rgb(145, 132, 123);
  text-align: justify;
  width: 60%;
  margin: auto;
 }
+
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
     border: 2px solid rgba(0, 0, 0, 0.534);
+    margin-top:45px;
+    margin-left:1px; 
+    text-align: center;   
+    background: #5a5349;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    padding-right: 80px;
 }
 h2 {
-    font-size: medium
-    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-family: small 'Times New Roman', Times, serif;
     border: 2px solid rgba(0, 0, 0, 0.534);
+    margin-top:45px;
+    margin-left:1px;
+    text-align: center;
+    background: #5a5349;
+    min-height: 50px;
+    padding-left: 60px;
+    padding-right: 80px;
+}
+
+ .header {
+    background: #5a5349;
+    width:200px;
+    height: 20px;
+    float:inline-start; 
+    border: 2px solid rgba(0, 0, 0, 0.534);   
 }
 
 
+ .sub-container {
+    background: #b19f89;
+    border: 2px solid rgba(0, 0, 0, 0.534);
+    box-sizing: border-box;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+ }
+
+ h3 {
+     text-align: center;
+     box-sizing: border-box;
+ }
+
+ .flex-container1 {
+    background: #b19f89;
+    text-align: justify;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
+
+h5{
+    background-color: rgb(173, 145, 108);
+    border: 15px solid rgb(85, 74, 49);
+}
